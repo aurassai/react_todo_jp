@@ -2,7 +2,7 @@
     "name": "react_todo",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://aurassai.github.io/react_todo_jp",
+    "homepage": "https://serene-davinci-1af819.netlify.com",
     "dependencies": {
         "axios": "^0.18.0",
         "gh-pages": "^2.0.1",
